@@ -10,7 +10,7 @@ The practice is not good of DAICO...
 With the development of Ethereum, the scene on Ethereum is developing constantly, and the number of projects is increasing. How to “find the money” has become a challenge for many projects.
 
 ## Introduce
-Merge streaming money into DAICO, and Kleros solution the disputes from the project and investors. Allocate fund money to the time, and the fundraising is no longer a one-time act, but a continuing act, and investors can exit at any time. By voting, it could minimize the risk of investors' money. And introduce the Kleros to supervision the project's behavior. 
+Merge streaming money into DAICO, and Decentralized Arbitration solution the disputes from the project and investors. Allocate fund money to the time, and the fundraising is no longer a one-time act, but a continuing act, and investors can exit at any time. By voting, it could minimize the risk of investors' money. And introduce the Decentralized Arbitration to supervision the project's behavior. 
 
 ## Details
 https://lichenguang62.medium.com/daiso-a-project-fundraising-token-swap-scheme-4e7d3c1ceb67
